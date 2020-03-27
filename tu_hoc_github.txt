@@ -2,11 +2,8 @@ phan quoc ky
 MSSV 51702027
 lop 17020201
 asdhasdh
-<<<<<<< HEAD
 1asdlhjalsd
 aldjha
 Ky QUoc 
-=======
 Ky Phasn
 Theem dong 6
->>>>>>> ce96b20f433aa2ee6070c63016ffed74f62aead2
